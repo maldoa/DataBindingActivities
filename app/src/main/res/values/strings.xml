@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DataBindingActivities</string>
+    <string name="noDataBindingStartString">Metodo Tradicional \n Sin Usar Binding</string>
+    <string name="dataBindingFirstSampleStartString">Primer Caso Data Binding \n Solo Lectura</string>
+    <string name="dataBindingSecondSampleStartString">Segundo Caso Data Binding \n Atributos Privados</string>
+    <string name="dataBindingThirdSampleStartString">Tercer Caso Data Binding \n Observable Fields</string>
+    <string name="dataBindingFourthSampleStartString">Tercer Caso Data Binding \n Observable FieldsPrivate</string>
+    <string name="updateNamesDataBindingSecondSampleString">Actualizar Atributos UserInfoPrivate</string>
+    <string name="updateNamesDataBindingThirdSampleString">Actualizar Atributos UserInfoObservableField</string>
+    <string name="updateNamesDataBindingFourthSampleString">Actualizar Atributos UserInfoObservableFieldPrivate</string>
+    <string name="firstNameNoDataBindingString">Nombre(s)</string>
+    <string name="lastNameNoDataBindingString">Apellidos</string>
+</resources>
